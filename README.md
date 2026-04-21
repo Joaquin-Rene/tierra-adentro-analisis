@@ -11,7 +11,7 @@ Business analytics case for an Argentinian handcrafted ecommerce operation selli
 
 ## App
 
-- Live demo: Streamlit deployment pending
+- Live demo: [Open Streamlit app](https://tierra-adentro-dashboard.streamlit.app/)
 - Local run:
 
 ```bash
